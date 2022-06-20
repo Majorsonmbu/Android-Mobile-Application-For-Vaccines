@@ -5,3 +5,5 @@ The public can book for vaccines, added to waiting list, when approved can set u
 
 The main implemented java code for the project can be found by navigating to:
 ./vaccinewastemitigationapp/app/src/main/java/com/example/vaccinewastemitigationapp/
+
+To view some sample screenshots of the application, download the 'Pictures For Demonstration.zip' folder
